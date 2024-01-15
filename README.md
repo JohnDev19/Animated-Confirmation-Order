@@ -1,9 +1,11 @@
 # Animated Confirmation Order
 
+![Preview](IMG_20240115_080541.jpg)
+
 This project provides an animated confirmation order button with a truck animation. The order button transitions from "Complete Order" to "Order Placed" with a truck animation that offers a visually appealing confirmation experience.
 
 ## Demo
-You can view the live demo [here](#).
+You can view the live demo [here](https://johndev19.github.io/Animated-Confirmation-Order/).
 
 ## Technologies Used
 - HTML
